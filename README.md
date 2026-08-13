@@ -81,12 +81,6 @@ Every prediction returns *why* it was made — in both Urdu and English — so t
 
 ---
 
-## Architecture
-
-![Rahbar system architecture diagram showing the web client and Android client both calling an Express server, which routes requests to the Google Gemini API and Open-Meteo API, with IESCO schedule data grounding Gemini's predictions](./assets/architecture-diagram.svg)
-
----
-
 ## Getting Started
 
 ### Prerequisites
