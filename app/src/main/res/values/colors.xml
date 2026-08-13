@@ -1,0 +1,8 @@
+<resources>
+    <color name="emerald_primary">#0B5E3C</color>
+    <color name="emerald_dark">#064E3B</color>
+    <color name="emerald_light">#D1FAE5</color>
+    <color name="warm_bg">#F7F5F0</color>
+    <color name="amber_accent">#F59E0B</color>
+    <color name="dark_text">#1C1917</color>
+</resources>

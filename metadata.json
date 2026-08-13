@@ -1,0 +1,9 @@
+{
+  "name": "Rahbar (رہبر)",
+  "description": "Voice-first bilingual AI companion predicting street electricity outages in Pakistan using multi-agent reasoning.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

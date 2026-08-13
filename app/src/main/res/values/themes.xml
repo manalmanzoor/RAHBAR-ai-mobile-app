@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Rahbar" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0B5E3C</item>
+        <item name="android:windowBackground">@color/warm_bg</item>
+    </style>
+</resources>
