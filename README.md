@@ -26,6 +26,8 @@ Designed so that a grandmother can use it: no dashboards, no jargon, no English-
 ## From BAARI to Rahbar
 
 This project began as **BAARI**, originally built for the **Google AI Seekho Hackathon**. This repository is its evolved, rebuilt, and renamed version — **Rahbar** — reworked with a sharper concept (multi-agent reasoning grounded in real IESCO/NEPRA/Open-Meteo data), a redesigned bilingual voice-first experience, and a companion native Android app, as an Independence Day 2026 contribution.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dade9351-1754-4e8c-9e63-246ba7167d46" />
+
 
 ---
 
